@@ -5,7 +5,7 @@ Tarea | Problemas de programación funcional
 ## Getting Started
 
 Para probrar el código hay que clonar el repositorio: 
-https://github.com/FatimaDuarte1/Problemas-de-Programacion-Funcional- y en la terminal poner node pf.js
+https://github.com/FatimaDuarte1/Problemas-de-Programacion-Funcional- y en la terminal poner nodejs pf.js
 
 ### Prerequisites
 
