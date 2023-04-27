@@ -73,7 +73,7 @@
 073,Shampoo,68.6,Higiene,21,4,30
 074,Talco,80.6,Higiene,23,5,40
 075,Rastrillo,50.8,Higiene,12,3,8
-076,Cotonete,16.7,Higiene,23,3,9
+076,Cotonete,15.7,Higiene,23,3,9
 077,Dentrifico,12.9,Higiene,16,5,20
 078,Desodorantes,11.5,Higiene,20,6,70
 079,Enjuague,18,Higiene,34,21,90
